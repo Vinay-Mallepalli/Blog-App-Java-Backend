@@ -1,3 +1,4 @@
+//AppConstants
 package com.wini.blog.config;
 
 public class AppConstants {
